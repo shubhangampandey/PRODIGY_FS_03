@@ -23,9 +23,16 @@ cd server
 npm install
 ```
 
-## Configure
+## Configure in backend .env
 
-Copy .env and fill in your MongoDB URI and JWT secret.
+.env - fill in your MongoDB URI and JWT secret.
+MONGO_URI=
+JWT_SECRET=maison_jwt_secret_2026_change_in_production
+PORT=5000
+CLOUD_NAME=
+CLOUD_API_KEY=
+CLOUD_API_SECRET=
+
 
 ## Seed Database
 
