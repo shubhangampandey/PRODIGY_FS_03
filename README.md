@@ -27,11 +27,17 @@ npm install
 
 .env - fill in your MongoDB URI and JWT secret.
 MONGO_URI=
+
 JWT_SECRET=maison_jwt_secret_2026_change_in_production
+
 PORT=5000
+
 CLOUD_NAME=
+
 CLOUD_API_KEY=
+
 CLOUD_API_SECRET=
+
 
 
 ## Seed Database
