@@ -26,6 +26,7 @@ npm install
 ## Configure in backend .env
 
 .env - fill in your MongoDB URI and JWT secret.
+
 MONGO_URI=
 
 JWT_SECRET=maison_jwt_secret_2026_change_in_production
